@@ -2,6 +2,17 @@
 
 A feature-rich real-time chat application built with Flutter and CometChat SDK, providing seamless messaging experience across platforms.
 
+## 🎥 Demo Video
+
+Watch the application in action! The demo video showcases various features with the name DivyanshDemo.mp4 in the root folder:
+- User login and authentication
+- Starting new conversations with friends
+- Real-time messaging experience
+- Conversation management and navigation
+- Responsive UI and smooth animations
+
+> **Note**: The demo video demonstrates the complete chat experience including user registration, finding friends, sending messages, and managing conversations in real-time.
+
 ## 🚀 Features
 
 ### Core Messaging Features
